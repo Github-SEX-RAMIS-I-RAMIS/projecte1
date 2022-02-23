@@ -4,7 +4,7 @@ Autor / Main director:
 
 Joan Josep Crespí Villalonga.
 
-Worst Student:
+Best Student:
 
 Sergi Camps Gili (TetrisDestructor)
 
