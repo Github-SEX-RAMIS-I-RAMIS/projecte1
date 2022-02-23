@@ -4,6 +4,8 @@ Autor / Main director:
 
 Joan Josep Crespí Villalonga. 👀
 
-Worst Student:
+Best Student:
 
 Sergi Camps Gili (TetrisDestructor)
+
+Ricardo Sánchez Arcos (La bestia)
