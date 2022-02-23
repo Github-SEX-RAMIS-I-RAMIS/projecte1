@@ -2,7 +2,7 @@
 
 Autor / Main director:
 
-Joan Josep Crespí Villalonga.
+Joan Josep Crespí Villalonga. 👀
 
 Best Student:
 
@@ -17,3 +17,4 @@ int main(){
 Worst Student:
 
 Sidney Silva Braz de Oliveira (Poser)
+Ricardo Sánchez Arcos (La bestia)
