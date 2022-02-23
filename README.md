@@ -4,7 +4,7 @@ Autor / Main director:
 
 Joan Josep Crespí Villalonga.
 
-Worst Student:
+Best Student:
 
 Sergi Camps Gili (TetrisDestructor)
 
@@ -14,3 +14,6 @@ int main(){
     printf("SOY ADRI);
     return 0;
 }
+Worst Student:
+
+Sidney Silva Braz de Oliveira (Poser)
